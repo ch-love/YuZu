@@ -1,5 +1,5 @@
 # YuZu 🍊
-*A Linux WM based on the QT toolkit!
+*A Linux WM based on the QT toolkit!*
 ![YuZu Screenshot](https://i.imgur.com/Pv3Ps7C.png)
 
 # Isn't this just KDE with the pannel at the top?
