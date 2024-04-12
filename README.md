@@ -13,7 +13,7 @@ Right now it only supports Debian/Ubuntu however support for arch and Redhat/fed
 
 You can dm me or email me with the contacts below
 
-Email 💌 : hyveralol@protonmail.com
+Email 💌 : vanished@cock.li (yes this is a real email)
 
 Discord 💬 : v4nishedlol
 
