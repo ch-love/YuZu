@@ -1,4 +1,4 @@
-# YuZu 🍊
+# YuZu 🍋
 *A Linux WM based on the QT toolkit!*
 ![YuZu Screenshot](https://i.imgur.com/Pv3Ps7C.png)
 
