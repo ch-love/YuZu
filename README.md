@@ -7,7 +7,11 @@ While this is at the end of the day based on Plasma we make are own custom mods 
 
 # What distros dose this project support?
 
-Right now it only supports Debian/Ubuntu however support for arch and Redhat/fedora is coming.
+Thankfully there have been a lot more support for distros as work on this projects gose on, here is the new list of officially supported distributions.
+
+YuZu 6 : Arch Linux, Debian/Ubuntu
+
+YuZu 5 (Legacy) : Debian/ubuntu
 
 # How do I contact you
 
